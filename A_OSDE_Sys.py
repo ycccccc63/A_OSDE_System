@@ -300,4 +300,4 @@ class A_OSDE_App(tk.Tk):
 
 if __name__ == "__main__":
     app = A_OSDE_App()
-    app.mainloop()A_OSDE_System.pyA_OSDE_System.py
+    app.mainloop()
